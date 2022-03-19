@@ -7,3 +7,4 @@ EXPOSE 3000
 ENTRYPOINT exec java $JAVA_OPTS -jar androiddevicesamsungstarqltechn.jar
 # For Spring-Boot project, use the entrypoint below to reduce Tomcat startup time.
 #ENTRYPOINT exec java $JAVA_OPTS -Djava.security.egd=file:/dev/./urandom -jar androiddevicesamsungstarqltechn.jar
+
