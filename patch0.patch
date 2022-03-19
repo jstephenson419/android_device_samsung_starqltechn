@@ -1,0 +1,13 @@
+diff --git a/README.md b/README.md
+index 0df6404..93c8399 100644
+--- a/README.md
++++ b/README.md
+@@ -3,4 +3,7 @@ twrp_android_device_samsung_starqlte
+ 
+ # android 9.0
+ manifest used
+-https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni/tree/twrp-9.0
++https://github.com/omnirom/android/tree/android-9.0
++
++Kernel source:
++https://github.com/klabit87/android_kernel_g9650-chn/tree/twrp
